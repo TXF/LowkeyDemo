@@ -1,6 +1,6 @@
-# LowkeyDemo
+# Lowkey Demo
 
-Light
+https://github.com/TXF/LowkeyDemo/assets/4419198/afa33948-0e30-4278-ac73-f7445b292cf7
 
 ## Requirements:
 ### Functional:
